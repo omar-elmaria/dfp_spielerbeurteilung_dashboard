@@ -1,5 +1,5 @@
-2_gegen_2_defensiv
-2_gegen_2_offensiv
+1_gegen_1_defensiv
+1_gegen_1_offensiv
 aktionsschnelligkeit
 aktionsschnelligkeit_bewegung_mit_ball
 antrittsschnelligkeit
@@ -40,8 +40,8 @@ uebersteiger_lire
 willensstaerke
 
 CASE
-WHEN kriterium_9 = '2_gegen_2_defensiv' THEN 2_gegen_2_defensiv
-WHEN kriterium_9 = '2_gegen_2_offensiv' THEN 2_gegen_2_offensiv
+WHEN kriterium_9 = '1_gegen_1_defensiv' THEN 1_gegen_1_defensiv
+WHEN kriterium_9 = '1_gegen_1_offensiv' THEN 1_gegen_1_offensiv
 WHEN kriterium_9 = 'aktionsschnelligkeit' THEN aktionsschnelligkeit
 WHEN kriterium_9 = 'aktionsschnelligkeit_bewegung_mit_ball' THEN aktionsschnelligkeit_bewegung_mit_ball
 WHEN kriterium_9 = 'antrittsschnelligkeit' THEN antrittsschnelligkeit

@@ -81,3 +81,46 @@ WHEN kriterium_9 = 'torschuss_vollspann_lire' THEN torschuss_vollspann_lire
 WHEN kriterium_9 = 'uebersteiger_lire' THEN uebersteiger_lire
 WHEN kriterium_9 = 'willensstaerke' THEN willensstaerke
 END
+
+CASE
+WHEN kriterium_9 = 'T1_jonglieren_mit_rueckdrall' THEN jonglieren_mit_rueckdrall
+WHEN kriterium_9 = 'T1_jonglieren_mit_rueckdrall_links_und_rechts' THEN jonglieren_mit_rueckdrall_links_und_rechts
+WHEN kriterium_9 = 'T2_1_gegen_1_defensiv' THEN 1_gegen_1_defensiv
+WHEN kriterium_9 = 'T2_1_gegen_1_offensiv' THEN 1_gegen_1_offensiv
+WHEN kriterium_9 = 'T2_ballfuehrung' THEN ballfuehrung
+WHEN kriterium_9 = 'T2_ballhaendling_innenseite_vollspann_oberschenkel_brust_liftenvolley' THEN ballhaendling_innenseite_vollspann_oberschenkel_brust_liftenvolley
+WHEN kriterium_9 = 'T2_dribbling' THEN dribbling
+WHEN kriterium_9 = 'T2_enge_ballfuehrung_lr' THEN enge_ballfuehrung_lr
+WHEN kriterium_9 = 'T2_finten' THEN finten
+WHEN kriterium_9 = 'T2_koerperfinte_lire' THEN koerperfinte_lire
+WHEN kriterium_9 = 'T2_tempodribbling_lire' THEN tempodribbling_lire
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_180_grad_linke_aussenseite' THEN ballmitnahme_erster_kontakt_180_grad_linke_aussenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_180_grad_rechte_aussenseite' THEN ballmitnahme_erster_kontakt_180_grad_rechte_aussenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_90_grad_linke_aussenseite' THEN ballmitnahme_erster_kontakt_90_grad_linke_aussenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_90_grad_linke_innenseite' THEN ballmitnahme_erster_kontakt_90_grad_linke_innenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_90_grad_rechte_aussenseite' THEN ballmitnahme_erster_kontakt_90_grad_rechte_aussenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_90_grad_rechte_innenseite' THEN ballmitnahme_erster_kontakt_90_grad_rechte_innenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_mit_offener_stellung_ca_90120_grad_linke_innenseite' THEN ballmitnahme_erster_kontakt_mit_offener_stellung_ca_90120_grad_linke_innenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_mit_offener_stellung_ca_90120_grad_rechte_innenseite' THEN ballmitnahme_erster_kontakt_mit_offener_stellung_ca_90120_grad_rechte_innenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_nach_vorne_linke_innenseite' THEN ballmitnahme_erster_kontakt_nach_vorne_linke_innenseite
+WHEN kriterium_9 = 'T3_ballmitnahme_erster_kontakt_nach_vorne_rechte_innenseite' THEN ballmitnahme_erster_kontakt_nach_vorne_rechte_innenseite
+WHEN kriterium_9 = 'T3_passspiel_innenseite_links' THEN passspiel_innenseite_links
+WHEN kriterium_9 = 'T3_passspiel_innenseite_rechts' THEN passspiel_innenseite_rechts
+WHEN kriterium_9 = 'T4_torschuss' THEN torschuss
+WHEN kriterium_9 = 'T4_torschuss_innenseite_lire' THEN torschuss_innenseite_lire
+WHEN kriterium_9 = 'T4_torschuss_vollspann_lire' THEN torschuss_vollspann_lire
+WHEN kriterium_9 = 'T5_aktionsschnelligkeit' THEN aktionsschnelligkeit
+WHEN kriterium_9 = 'T5_aktionsschnelligkeit_bewegung_mit_ball' THEN aktionsschnelligkeit_bewegung_mit_ball
+WHEN kriterium_9 = 'T5_antrittsschnelligkeit' THEN antrittsschnelligkeit
+WHEN kriterium_9 = 'T5_grundschnelligkeit' THEN grundschnelligkeit
+WHEN kriterium_9 = 'T5_laufbewegungsgeschicklichkeit' THEN laufbewegungsgeschicklichkeit
+WHEN kriterium_9 = 'T5_uebersteiger_lire' THEN uebersteiger_lire
+WHEN kriterium_9 = 'T6_spielintelligenz_kreativitaet' THEN spielintelligenz_kreativitaet
+WHEN kriterium_9 = 'T7_disziplin' THEN disziplin
+WHEN kriterium_9 = 'T7_durchsetzungsvermoegen' THEN durchsetzungsvermoegen
+WHEN kriterium_9 = 'T7_durchsetzungsvermoegen_willenstaerke' THEN durchsetzungsvermoegen_willenstaerke
+WHEN kriterium_9 = 'T7_konzentrationsvermoegen' THEN konzentrationsvermoegen
+WHEN kriterium_9 = 'T7_kritikfaehigkeit' THEN kritikfaehigkeit
+WHEN kriterium_9 = 'T7_selbstvertrauen' THEN selbstvertrauen
+WHEN kriterium_9 = 'T7_willensstaerke' THEN willensstaerke
+END

@@ -5,3 +5,5 @@ venv_toni/
 *.gdoc
 *.jpg
 *.gsheet
+*.jpeg
+.DS_Store

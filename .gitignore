@@ -7,3 +7,4 @@ venv_toni/
 *.gsheet
 *.jpeg
 .DS_Store
+*.csv
